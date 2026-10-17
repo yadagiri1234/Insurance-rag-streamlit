@@ -1,0 +1,17 @@
+Motor Insurance Claim Assessment & Settlement:
+
+Purpose: To ensure claims are assessed fairly, accurately, and in accordance with policy terms.
+
+Process:
+
+- Review the claim details, policy coverage, supporting documents, and inspection or survey findings.
+
+- Validate the cause and extent of damage or loss against the applicable policy coverage.
+
+- Identify exclusions, deductibles, discrepancies, or additional information requirements.
+
+- Obtain the required approvals based on the applicable authority limits.
+
+- Approve and settle the claim, or communicate the appropriate reason when the claim cannot be approved.
+
+Key Control: Claim decisions and settlement amounts should be supported by documented assessment and approvals.

@@ -1,0 +1,18 @@
+Motor Insurance Policy Issuance
+
+Purpose: To ensure motor insurance policies are issued accurately and consistently.
+
+Process:
+
+- Collect customer, vehicle, and required supporting documents.
+
+- Verify vehicle details, ownership, registration, usage, and previous insurance information.
+
+- Determine applicable coverage, premium, deductibles, and policy terms.
+
+- Complete required validations and approvals before policy issuance.
+
+- Issue the policy and communicate the coverage details and key conditions to the customer.
+
+
+Key Control: No policy should be issued until all mandatory information and validations are completed.

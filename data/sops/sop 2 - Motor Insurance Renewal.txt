@@ -1,0 +1,17 @@
+Motor Insurance Renewal:
+
+Purpose: To ensure policies are renewed within the required timeframe and without unnecessary coverage gaps.
+
+Process:
+
+Identify policies approaching their renewal date.
+
+- Review existing policy details, claims history, vehicle information, and coverage requirements.
+
+- Validate any changes to customer or vehicle information.
+
+- Calculate the applicable renewal premium and confirm the coverage terms.
+
+- Process the renewal and provide the updated policy documents to the customer.
+
+Key Control: Renewal details should be validated before payment confirmation and policy activation.

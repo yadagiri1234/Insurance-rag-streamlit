@@ -1,0 +1,17 @@
+Motor Insurance Claim Registration:
+
+Purpose: To establish a consistent process for registering and initiating motor insurance claims.
+
+Process:
+
+- Receive the claim notification from the policyholder or authorized representative.
+
+- Verify the policy status and confirm that the reported incident falls within the policy period.
+
+- Capture accident, vehicle, driver, location, and incident details.
+
+- Collect required documents, photographs, police reports, or other supporting evidence where applicable.
+
+- Register the claim and provide the claimant with the claim reference and next steps.
+
+Key Control: Claims should be registered with complete and accurate incident information.

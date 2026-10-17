@@ -1,0 +1,17 @@
+Policy & Claim Record Management:
+
+Purpose: To ensure accurate maintenance and closure of motor insurance records.
+
+Process:
+
+- Maintain complete records of policies, endorsements, claims, approvals, payments, and customer communications.
+
+- Update policy and claim systems promptly following each completed transaction or process stage.
+
+- Verify that all required documents and approvals are available before closure.
+
+- Maintain records according to applicable retention and compliance requirements.
+
+- Close the policy or claim only after confirming that all outstanding activities have been completed.
+
+Key Control: Records should be complete, accurate, traceable, and readily available for audit or review.
